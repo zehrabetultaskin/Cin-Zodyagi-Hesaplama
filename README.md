@@ -1,4 +1,4 @@
-# Çin Zodyaği Hesaplama
+# Çin Zodyağı Hesaplama
 
 Bu program Java programlama dili kullanılarak oluşturulmuştur. Bu programın amacı, kullanıcı tarafından girilen doğum yılına göre çin zodyağını hesaplamaktır.
 
